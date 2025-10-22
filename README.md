@@ -1,18 +1,18 @@
 # flappy_flame
 
-an experimental flappy birb game on flame package
+an experimental flappy ***birb*** game on flame package
 
 nothing to read here, just build it and play when bored
 
 ---
 
 ## 🚀 Overview
-Flappy Flame is a simple, addictive side-scrolling game where you control a birb and try to dodge pipes for as long as your reflexes allow. This project is a playground for the [Flame](https://flame-engine.org/) game engine in Flutter, and for anyone who just wants to procrastinate productively.
+Flappy Flame is a simple, addictive side-scrolling game where you control a ***birb*** and try to dodge pipes for as long as your reflexes allow. This project is a playground for the [Flame](https://flame-engine.org/) game engine in Flutter, and for anyone who just wants to procrastinate productively.
 
 ---
 
 ## 🎮 Features
-- Classic flappy birb gameplay
+- Classic flappy ***birb*** gameplay
 - Smooth animations and physics
 - Score tracking and persistent high score
 - Responsive controls for mobile and desktop
