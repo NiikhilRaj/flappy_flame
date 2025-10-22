@@ -1,4 +1,4 @@
-# flame_app
+# flappy_flame
 
 an experimental flappy birb game on flame package
 
